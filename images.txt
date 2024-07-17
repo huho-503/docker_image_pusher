@@ -1,2 +1,3 @@
 nyanmisaka/jellyfin:latest
 stainless403/mdcx-builtin-gui-base:latest
+xiaoyaliu/alist:latest
