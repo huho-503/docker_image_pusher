@@ -1,1 +1,2 @@
 nyanmisaka/jellyfin
+guovern/tv-requests:latest
