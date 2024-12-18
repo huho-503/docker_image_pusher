@@ -1,4 +1,4 @@
 nyanmisaka/jellyfin
 guovern/tv-requests:latest
 jxxghp/moviepilot-v2:latest
-linuxserver/transmission:latest
+linuxserver/transmission:4.0.5
