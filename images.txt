@@ -4,3 +4,4 @@ jxxghp/moviepilot-v2:latest
 linuxserver/transmission:4.0.5
 adolfintel/speedtest:latest
 gdy666/lucky:latest
+teddysun/shadowsocks-libev
