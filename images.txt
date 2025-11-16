@@ -1,9 +1,4 @@
-nyanmisaka/jellyfin
-guovern/tv-requests:latest
 jxxghp/moviepilot-v2
 linuxserver/transmission:4.0.5
-adolfintel/speedtest:latest
 gdy666/lucky:latest
-teddysun/shadowsocks-libev
-dreamacro/clash
-haishanh/yacd
+jellyfin/jellyfin:latest
